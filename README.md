@@ -1,8 +1,4 @@
 
-Pedro Scarela Granja
-25 de nov. de 2025, 11:01 (há 6 dias)
-para mim
-
 Executor de Scripts Universal - Gestão Inteligente de Automações
 
 Desenvolvi uma solução modular e inteligente para gerenciar e executar múltiplos scripts de automação de forma centralizada, otimizando o controle de processos automatizados em ambientes corporativos. Objetivo do Projeto:
